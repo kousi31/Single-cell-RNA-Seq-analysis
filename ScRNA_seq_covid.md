@@ -115,43 +115,7 @@ for (i in dirs){
   }
 ```
 
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-    ## Warning: Feature names cannot have underscores ('_'), replacing with dashes
-    ## ('-')
-
-### Add sample characteristics to each Seurat object
+   ### Add sample characteristics to each Seurat object
 
 ``` r
 library(readxl)
