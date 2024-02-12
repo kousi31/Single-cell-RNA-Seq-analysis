@@ -153,7 +153,7 @@ merged_seurat$cells <- rownames(merged_seurat@meta.data)
 merged_seurat@meta.data <- separate(merged_seurat@meta.data, col = 'cells', into = c('sample_id', 'barcode'), sep = '_')
 ```
 
-### Standard pre-processing workflow
+## Standard pre-processing workflow
 
 #### Calculate percentage reads mapped to mitochondrial genome
 
@@ -174,7 +174,7 @@ doublets.
 merged_seurat$log10GenesPerUMI <- log10(merged_seurat$nFeature_RNA) / log10(merged_seurat$nCount_RNA)
 ```
 
-## Understanding the raw data through vizualization
+## Understanding the raw data through visualization
 
 #### QC and selecting cells for further analysis
 
