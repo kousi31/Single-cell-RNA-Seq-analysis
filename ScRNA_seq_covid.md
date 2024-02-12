@@ -791,36 +791,6 @@ associated with translation and protein synthesis were over-represented
 in down-regulated genes. This corroborated with the modules reported in
 the paper.
 
-However, the analysis could not confirm the differential expression of
-the marker for severe Covid-19 “S100A12” . It was significantly
-up-regulated only in Plasma cell type. The other markers “OSM”,
-“TNFSF14” were not significantly differentially expressed between
-diseased and healthy condition.
-
-Hence, I re-ran the analysis by contrasting the conditions as : Severe
-vs. Healthy; Severe vs. Moderate and Moderate vs. Healthy.
-
-The figures of BTMs identified are given below,
-
-1.  Severe vs. Healthy. The immune related pathways were
-    over-represented in Severe covid patients vs. Healthy individuals
-
-![](../Plots/BTM_sev_healthy.png)
-
-2.  Moderate vs. Healthy: Most of immune related modules were
-    over-represented in up=regulated genes like the Severe vs. Healthy
-    comparison
-
-    ![](../Plots/BTM_mod_vs_h.png)
-
-3.  Severe vs. Moderate: Immune related pathways related to interferon
-    response like type-I INF response, interferon and antiviral IFN
-    signature were down-regulated. This was in confirmation with studies
-    (Hadjadj et al., 2020, smith et.al 2022) that reported impaired type
-    I interferon response in severe/hospitalized Covid patients.
-
-    ![](../Plots/BTM_sev_vs_Mod.png)
-
 ### Visualizing marker genes
 
 ### Plot gene markers severe covid
